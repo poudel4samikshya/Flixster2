@@ -3,7 +3,7 @@
 
 Submitted by: **Samikshya Poudel**
 
-**Flixster2** is a movie browsing app that allows users to browse ... [TODO] 
+**Flixster2** is a movie browsing app that allows users to browse toprated movies and toprated TV shows.
 
 Time spent: **10** hours spent in total
 
